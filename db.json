@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 10,
+      "title": "UPDATED",
+      "body": "typicode"
+    },
+    {
+      "title": "123123",
+      "body": "123123",
+      "id": 11
+    },
+    {
+      "title": "99999999",
+      "body": "99999999",
+      "id": 12
+    },
+    {
+      "title": "34566",
+      "body": "34566",
+      "id": 13
+    },
+    {
+      "title": "1",
+      "body": "1",
+      "id": 14
+    },
+    {
+      "title": "ddd",
+      "body": "ddd",
+      "id": 15
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
